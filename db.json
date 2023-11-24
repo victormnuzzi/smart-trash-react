@@ -1,0 +1,47 @@
+{
+  "usuarios": [
+    {
+      "name": "Administrador",
+      "cpf": "00000000000",
+      "email": "admin@smarttrash.com.br",
+      "telefone": "11999999999",
+      "username": "admin",
+      "password": "1234",
+      "cep": "99999999",
+      "logradouro": "Rua B",
+      "numero": "56",
+      "bairro": "Bairro A",
+      "cidade": "Cidade Z",
+      "id": 1
+    },
+    {
+      "name": "Victor",
+      "cpf": "00000000000",
+      "email": "victor@smarttrash.com.br",
+      "telefone": "11999999999",
+      "username": "victor",
+      "password": "987",
+      "cep": "99999999",
+      "logradouro": "Rua X",
+      "numero": "56",
+      "bairro": "Bairro Y",
+      "cidade": "Cidade Z",
+      "id": 2
+    },
+    {
+      "name": "Victor Nuzzi",
+      "email": "exemplo@exemplo.com.br",
+      "telefone": "99999999999",
+      "username": "victor1",
+      "password": "123456",
+      "cep": "01538-001",
+      "logradouro": "Avenida Lins de Vasconcelos",
+      "numero": "1222",
+      "bairro": "Cambuci",
+      "cidade": "São Paulo",
+      "cpf": "99999999999",
+      "estado": "SP",
+      "id": 3
+    }
+  ]
+}

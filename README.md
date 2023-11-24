@@ -1,1 +1,2 @@
-# smart-trash-react
+# Smart Trash
+
